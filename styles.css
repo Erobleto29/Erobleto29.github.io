@@ -2,5 +2,6 @@
     border: 1px solid black;
     display: block;
     margin: 0 auto;
-    transform: rotate(1deg); /* Inclinar 2 grados */
+    margin-top: 20 auto;
+    transform: rotate(1deg); /* Inclinar 1 grados */
   }
