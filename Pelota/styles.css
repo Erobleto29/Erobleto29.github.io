@@ -1,0 +1,6 @@
+#Canvas {
+    border: 1px solid black;
+    display: block;
+    margin: 0 auto;
+    transform: rotate(1deg); /* Inclinar 2 grados */
+  }
